@@ -1,0 +1,7 @@
+The approach that I took to write this program was to make the primes function more efficient.
+This started with me making the ineffiecnt code where it loops through all number under the number and checks if it is divisible.
+Then I looked through every second number as all the even numbers are checked if 2 is checked.
+Then I noticed that the largest number of a multiple has to be less than the sqrt of that number so the code does not need to look through most of the number.
+
+
+My code will run throguh 10^8 in under 15 seconds.
