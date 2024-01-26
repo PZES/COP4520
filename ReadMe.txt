@@ -1,5 +1,6 @@
 #How to run this program
 
-java Main.java
+javac Main.java
+java Main
 
 
